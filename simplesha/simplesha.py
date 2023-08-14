@@ -1,4 +1,4 @@
-rm eimport hashlib
+import hashlib
 import sys
 import os
 
